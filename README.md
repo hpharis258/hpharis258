@@ -79,12 +79,12 @@ I'm a software engineer with 4 years of professional experience, mainly using **
 ## 📊 **GitHub Stats**
 
 <p align="left">
-  <img src="https://my-hosted-stats.vercel.app/api?username=hpharis258&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://my-hosted-stats.vercel.app/api?username=hpharis258&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cachebust=1" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://my-hosted-stats.vercel.app/api/streak?user=hpharis258&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://my-hosted-stats.vercel.app/api/top-langs?username=hpharis258&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
