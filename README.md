@@ -79,15 +79,15 @@ I'm a software engineer with 4 years of professional experience, mainly using **
 ## 📊 **GitHub Stats**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hpharis258&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://my-hosted-stats.vercel.app/api?username=hpharis258&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hpharis258&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://my-hosted-stats.vercel.app/api/streak?user=hpharis258&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpharis258&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://my-hosted-stats.vercel.app/api/top-langs?username=hpharis258&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -95,4 +95,3 @@ I'm a software engineer with 4 years of professional experience, mainly using **
 ## ☕ **Support Me**
 
 <a href="https://www.buymeacoffee.com/haroldas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-
