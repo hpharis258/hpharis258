@@ -1,40 +1,51 @@
 # Hi there 👋
 
-# I'm Haroldas Varanauskas
+# I'm Haroldas
 
-### Senior Software Engineer | .NET • Azure • Cloud Architecture
+I'm a UK-based software developer with 4+ years of professional experience across backend development, cloud systems, APIs, integrations, and business applications.
 
-I'm a UK-based software engineer focused on building scalable backend systems, cloud-native applications, and modern developer platforms.
+My background includes C#/.NET, SQL, Azure, React/Node.js, and low-code/CRM platform development.
 
-Over the last 5+ years I've worked across backend engineering, distributed systems, cloud infrastructure, APIs, frontend applications, and DevOps tooling — with a strong focus on delivering reliable production software and improving engineering standards.
-
-Currently working as a Senior Cloud Systems Developer, contributing across architecture, backend services, cloud infrastructure, CI/CD, and technical leadership.
+I currently work as a Senior Cloud Systems Developer, building and integrating business systems, APIs, CRM workflows, and cloud-based solutions.
 
 ---
 
-## 🚀 What I Work With
+## 🛠 Technologies I Work With
 
-### Backend & Cloud
+### Backend
 
-* C# / .NET / ASP.NET Core
-* REST APIs & Microservices
-* Azure Functions & Cloud Services
-* Event-Driven Architectures
-* SQL Server, PostgreSQL, Cosmos DB
+* C#
+* .NET / ASP.NET Core
+* REST APIs
+* Entity Framework Core
+* SQL Server
+* PostgreSQL
+* Cosmos DB
+* Node.js
 
-### Frontend
+### Cloud & DevOps
+
+* Azure
+* Azure Functions
+* Azure App Service
+* Docker
+* GitHub Actions
+* CI/CD
+* Terraform basics
+
+### Frontend & Mobile
 
 * React
 * TypeScript
-* Next.js
+* Swift / iOS
 
-### DevOps & Infrastructure
+### Other Experience
 
-* Azure
-* Docker
-* Terraform
-* GitHub Actions
-* CI/CD Pipelines
+* Zoho Creator / Zoho CRM / Deluge
+* API integrations
+* OAuth2 / JWT authentication
+* Supabase
+* OpenAI API integrations
 
 ---
 
@@ -42,19 +53,18 @@ Currently working as a Senior Cloud Systems Developer, contributing across archi
 
 ### Terminal POS
 
-C# .NET 8 MVC application with SQL Server backend and automated GitHub Actions deployment pipeline hosted on a VPS.
-
-### TypeRacingGame
-
-Real-time React + TypeScript application with Supabase backend and Google authentication integration.
-
-### Personal Website
-
-Modern React/TypeScript portfolio website featuring Three.js integrations and interactive 3D elements.
+A C# .NET 8 MVC point-of-sale application integrating with Stripe Terminal.
+Built with SQL Server, user authentication, payment flows, refund handling, and automated deployment using GitHub Actions to a VPS.
 
 ### One Count Calories
 
-iOS application built with Swift and published on the Apple App Store with subscriptions and in-app purchases.
+An iOS calorie tracking app built with Swift and published on the Apple App Store.
+Currently expanding it with a .NET backend, account system, Supabase authentication, PostgreSQL, and AI-powered food scan credits.
+
+### TypeRacingGame
+
+A real-time typing game built with React and TypeScript.
+Includes Supabase backend integration and Google authentication.
 
 ---
 
@@ -73,21 +83,11 @@ iOS application built with Swift and published on the Apple App Store with subsc
 ## 🌍 Links
 
 * Portfolio: https://www.haroldasvaranauskas.com
-* LinkedIn: Add Your LinkedIn Here
 * GitHub: https://github.com/hpharis258
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/haroldas-varanauskas-8b980b14b/)
 
 ---
 
 ## 📫 Contact
 
 * [hpharis258@users.noreply.github.com](mailto:hpharis258@users.noreply.github.com)
-
----
-
-## ⚡ Current Focus
-
-* Scalable backend systems in .NET
-* Cloud-native architecture on Azure
-* Kubernetes & containerised workloads
-* Improving engineering standards and delivery practices
-* Building production-grade side projects
